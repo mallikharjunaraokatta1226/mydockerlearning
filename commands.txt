@@ -1,0 +1,6 @@
+# To create docker image
+docker run build .
+# To check the list of docker images available
+docker ps
+# to stop the docker image
+docker stop <image_names>
